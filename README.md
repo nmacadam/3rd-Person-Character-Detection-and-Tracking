@@ -1,2 +1,9 @@
 # 3rd Person Character Detection & Tracking
- OpenCV project demonstrating object detection & tracking in 3rd person video games
+Final project for CAP4410 Computer Vision
+
+Features:
+- UI Detection
+- Player character detection and tracking
+- Level geometry segmentation
+
+[Project Report/Discussion](https://github.com/nmacadam/3rd-Person-Character-Detection-and-Tracking/blob/master/Report.pdf)
